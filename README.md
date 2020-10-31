@@ -1,4 +1,4 @@
 # Image_Segmentation
-Image segmentation of Carvana dataset using transfer learning.
-Used Tensorflow Keras, and MobilNetV2 pretrained model.
+Image segmentation of Kaggle's Carvana dataset using transfer learning.
+This Kaggle Notebook uses Tensorflow Keras and the MobilNetV2 pretrained model.
 Over 99% accurate.
